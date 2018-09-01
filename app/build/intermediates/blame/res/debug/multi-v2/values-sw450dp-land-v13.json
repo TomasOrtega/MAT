@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\AndroidStudioProjects\\mat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw450dp-land-v13\\values-sw450dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\AndroidStudioProjects\\mat\\app\\src\\main\\res\\values-sw450dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "22,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "846,790",
+                        "endColumns": "58,55",
+                        "endOffsets": "900,841"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

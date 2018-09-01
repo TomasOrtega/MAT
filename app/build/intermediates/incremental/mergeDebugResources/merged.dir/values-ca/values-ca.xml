@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Tipusequacio">L\'equació ha de ser del tipus ax²+bx+c=0</string>
+    <string name="_a">α</string>
+    <string name="_b">β</string>
+    <string name="_c">γ</string>
+    <string name="a">A</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navega a la pàgina d\'inici"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navega cap a dalt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Mostra\'ls tots"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVAT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="action_settings">Idioma</string>
+    <string name="afegeix">Afegeix</string>
+    <string name="app_name">MAT</string>
+    <string name="aquesttrianglenotesolucio">Aquest triangle no té solució</string>
+    <string name="atencioaquesttriangle">Atenció! Aquest triangle té 2 solucions</string>
+    <string name="atext">a=</string>
+    <string name="b">B</string>
+    <string name="btext">b=</string>
+    <string name="buidar_tot">Buidar tot</string>
+    <string name="c">C</string>
+    <string name="cancela">Cancel·la</string>
+    <string name="ctext">c=</string>
+    <string name="determinants">Determinants</string>
+    <string name="dtdospunts">Desviació Típica: </string>
+    <string name="ed2g">Equació de Segon Grau</string>
+    <string name="eldeterminantdelamatriues">El determinant de la matriu és:</string>
+    <string name="elimina">Elimina</string>
+    <string name="elsanglessumen">Els angles sumen més de 180 graus!</string>
+    <string name="elsanglessumenmenys">Els angles sumen menys de 180 graus!</string>
+    <string name="estad_stica">Estadística</string>
+    <string name="faltainfo">Falta informació per poder calcular el triangle</string>
+    <string name="idioma">Idioma</string>
+    <string name="introdueix_la_dimensi_de_la_matriu">Introdueix la dimensió del sistema</string>
+    <string name="introdueix_la_mida_de_la_mostra_de_l_estudi">Introdueix la mida de la mostra de l\'estudi</string>
+    <string name="introdueix_les_mostres_">Introdueix la mostra:</string>
+    <string name="introdueixelcoeficient">Introdueix el coeficient de x</string>
+    <string name="introdueixi_el_grau_del_polinomi">Introdueixi el grau del polinomi</string>
+    <string name="introdueixi_la_dimensi_de_la_matriu">Introdueixi la dimensió de la matriu</string>
+    <string name="introdueixmostra">Introdueix valor</string>
+    <string name="introdueixpuntdinici">Introdueix un punt d\'inici</string>
+    <string name="larreltrobada">L\'arrel trobada és:</string>
+    <string name="medianadospunts">Mediana: </string>
+    <string name="mitjanadospunts">Mitjana: </string>
+    <string name="mmdttitol">La mitjana, la desviació típica i la mediana són:</string>
+    <string name="newton">Arrels de Polinomis</string>
+    <string name="nombrenovalid">Dades incorrectes</string>
+    <string name="norealx">No hi ha solucions reals</string>
+    <string name="noshantrobat">No s\'han trobat solucions, prova un altre punt d\'inici</string>
+    <string name="nox">No hi ha incògnites</string>
+    <string name="ok">OK</string>
+    <string name="resol">Resol</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Cerca"</string>
+    <string name="sistemaincompatible">No hi ha solució única</string>
+    <string name="sistemes">Sistemes d\'Equacions</string>
+    <string name="solsis">Les solucions del sistema són:</string>
+    <string name="soluciodos">Solució 2</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="totselstriangles">Tots els triangles amb els angles introduïts son múltiples d\'aquest</string>
+    <string name="triangles">Resolució de Triangles</string>
+    <string name="una_mostra">un valor</string>
+    <string name="unanglenopotserzero">Un angle no pot ser 0!</string>
+    <string name="uncostatnopotserzero">Un costat no pot ser 0!</string>
+    <string name="untrianglenopottenir">Un triangle no pot tenir aquests tres costats</string>
+    <string name="withanumberthisbig">Amb un nombre tan gran MAT anirà lent o es tancarà. Continuar?</string>
+</resources>
