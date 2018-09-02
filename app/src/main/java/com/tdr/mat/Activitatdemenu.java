@@ -118,8 +118,7 @@ public class Activitatdemenu extends Activity {
 		case android.R.id.home:
 			FragmentManager fm = getFragmentManager();
 			int n = fm.getBackStackEntryCount();
-			if (n < 1)
-				System.exit(1);
+			if (n < 1) System.exit(1);
 			for (int i = 0; i < n; ++i) {
 				fm.popBackStack();
 			}
